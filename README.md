@@ -10,7 +10,7 @@ The simulation is implemented in Java and models the thermal dynamics of a BESS 
 
 ## Table of Contents
 
-- Introduction
+- [Introduction](#Introduction)
 - System Description
   - Thermal Model
   - Control Strategies
@@ -34,7 +34,7 @@ The simulation is implemented in Java and models the thermal dynamics of a BESS 
 
 ---
 
-## Introduction
+## Introduction {#Introduction}
 
 Maintaining optimal environmental conditions within a BESS enclosure is crucial for battery performance, safety, and longevity. This project explores the implementation of a hybrid control system that combines the simplicity and responsiveness of a PID controller with the predictive optimization capabilities of an MPC controller.
 
@@ -185,7 +185,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
 
 ---
 
